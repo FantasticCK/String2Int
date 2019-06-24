@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int result = new Solution().myAtoi("+-1");
         //System.out.println("1".charAt(0) < '9');
-        //System.out.println(Integer.valueOf(String.valueOf(Integer.MAX_VALUE)));
+        System.out.println(Integer.valueOf(String.valueOf(Integer.MAX_VALUE)));
         System.out.println(result);
     }
 }
